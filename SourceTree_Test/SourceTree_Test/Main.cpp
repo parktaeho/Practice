@@ -2,5 +2,5 @@
 
 void main(void)
 {
-	printf("SourceTree V1.0 입니다.\n");
+	printf("SourceTree V2.0 입니다.\n");
 }
